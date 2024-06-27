@@ -27,6 +27,4 @@ Instructions:
 
 --
 
-Find our paper in: https://diglib.eg.org/handle/10.2312/cgvc20161288
-
-
+We reference this: https://diglib.eg.org/handle/10.2312/cgvc20161288
